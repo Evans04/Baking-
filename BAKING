@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link ref="stylesheet" href="style.css">
+    <title>Baking</title>
+</head>
+
+<body>
+    <H1>Baking</H1>
+    <section>
+        <P>Is a method of cooking food that uses prollonged dry heat, normally in an oven , but also in hot ashes, or on hot stones.</P>
+    </section>
+    <section>
+        <h1></h1>
+        <div>
+            <ul>Gather ingredients</ul>
+            <ul>Mix ingredients together</ul>
+            <Ul>Place ingredients in a baking dish</Ul>
+        </div>
+    </section>
+    <selection>
+        <h2>Before you place the ingredients in the baking dish, preheat the oven to 180 degrees</h2>
+    </selection>
+    <selection>
+        <ol>Bake in oven for an hour </ol>
+        <ol>Remove from oven</ol>
+        <ol>Allow to stand for ten minute</ol>
+        <ol>Serve</ol>
+    </selection>
+</body>
+
+</html>
